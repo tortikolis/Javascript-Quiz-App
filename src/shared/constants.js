@@ -1,0 +1,1 @@
+export const endpoint = 'https://lit-woodland-22181.herokuapp.com/api/questions/random';
